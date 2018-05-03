@@ -1,1 +1,2 @@
-<h1>Сайт для Татьяны Мирзоян</h1>
+<h1>Демо-сайт для Татьяны Мирзоян</h1>
+<p>Для ознакомления, перейдите по ссылке: <strong><a href="https://dzhem.github.io/mirzojan-production/">https://dzhem.github.io/mirzojan-production/</a></strong></p>
